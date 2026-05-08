@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "937649134022",
+    "firebase_url": "https://eventmanagementapp-c7417-default-rtdb.firebaseio.com",
+    "project_id": "eventmanagementapp-c7417",
+    "storage_bucket": "eventmanagementapp-c7417.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937649134022:android:a82de8d0c11535c8eefac7",
+        "android_client_info": {
+          "package_name": "com.admin.eventmanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzqCdk_GrFGwHOEYjrWomFchxy4YAhPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
