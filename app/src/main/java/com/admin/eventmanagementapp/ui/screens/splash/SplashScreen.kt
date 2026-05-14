@@ -22,6 +22,7 @@ import androidx.navigation.NavController
 import com.admin.eventmanagementapp.navigation.Routes
 import kotlinx.coroutines.delay
 
+
 @Composable
 fun SplashScreen(navController: NavController) {
 
